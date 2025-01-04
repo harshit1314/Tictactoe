@@ -1,0 +1,3 @@
+first install node.js and run the command in cmd or gitbash in your folder where js file is stored
+npm install prompt-sync
+then run node tictactoe.js 
